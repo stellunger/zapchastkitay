@@ -9,37 +9,12 @@
 
     <title>Запчасти из Китая | запчастькитай.рф</title>
 
-    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom CSS for the 'Business Frontpage' Template -->
+    
     <link href="css/business-frontpage.css" rel="stylesheet">
   </head>
 
-  <body>
-
-    <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">Start Bootstrap</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container -->
-    </nav>
+  <body>     
     
     <div class="business-header">
     
@@ -47,8 +22,8 @@
 
         <div class="row">
           <div class="col-lg-12">
-          	<!-- The background image is set in the custom CSS -->
-            <h1 class="tagline">An Informative Tagline Goes Here</h1>
+          	
+            <h1 class="tagline">Поставка запчастей к коммерческому транспорту из Китая</h1>
           </div>
         </div>
       
@@ -62,22 +37,38 @@
       
       <div class="row">
         <div class="col-lg-8 col-sm-8">
-          <h2>What We Do</h2>
-          <p>Here is where you will introduce visitors to the business. Make sure to use clear and informative sentences. Use appropriate keywords here to make sure search engines can find the business.</p>
-          <p>When using this template, two decisions will be open to visitors. Decision one will be to use above-the-fold information to interact with the page. Decision two will be to scroll down and see the additional marketing boxes. Either way, the user will get the information they need!</p>
-          <p><a class="btn btn-default btn-large" href="#">Call to action &raquo;</a></p>
+          <h2>Чем мы занимаемся</h2>
+
+          <p>Наша компания предлагает свои услуги по оптовой и розничной поставке запчастей для коммерческого транспорта китайского производства.</p>
+
+          <p><strong>Мы работаем на заказ!</strong></p>
+
+          <p>У нас можно заказать запчасти для:</p>
+
+          <ul>
+            <li>автокранов;</li>
+            <li>экскаваторов;</li>
+            <li>грузовых автомобилей;</li>
+            <li>фронтальных погрузчиков;</li>
+            <li>бульдозеров;</li>
+            <li>многого другого.</li>
+          </ul>
+
+          <p><strong>Ассортимент нашей компании включает запчасти для техники от всех ведущих брендов. Узнавайте наличие по телефону!</strong></p>
+          
         </div>
         <div class="col-lg-4 col-sm-4">
-          <h2>Contact Us</h2>
-		  <address>
-  			<strong>Twitter, Inc.</strong><br>
-  			795 Folsom Ave, Suite 600<br>
-			San Francisco, CA 94107<br>
-		  </address>
-		  <address>
-			<abbr title="Phone">P:</abbr> (123) 456-7890<br>
-            <abbr title="Email">E:</abbr> <a href="mailto:#">first.last@example.com</a>
-		  </address>
+          <h2>Связаться с нами</h2>
+		      <p>Вас заинтересовала наша продукция? Менеджеры компании будут рады ответить на ваши вопросы!</p>
+          <p align=center><strong><big>8 800 555-39-84</big></strong></p>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-sm-12">        
+        <h2 align=center>Звоните бесплатно: 8 800 555-39-84.</h2>
         </div>
       </div>
       
@@ -85,19 +76,59 @@
 
       <div class="row">
         <div class="col-sm-4">
-        	<img class="img-circle img-responsive text-center" src="http://placehold.it/300x300">
-            <h2>Marketing Box #1</h2>
-            <p>These marketing boxes are a great place to put some information. These can contain summaries of what the company does, promotional information, or anything else that is relevant to the company. These will usually be below-the-fold.</p>
+        	<img class="img-circle img-responsive text-center" src="../zoomlion.png">
+            <h2 align=center>Zoomlion</h2>            
         </div>
         <div class="col-sm-4">
-        	<img class="img-circle img-responsive" src="http://placehold.it/300x300">
-            <h2>Marketing Box #2</h2>
-            <p>The images are set to be circular and responsive. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+        	<img class="img-circle img-responsive" src="../shehwa.png">
+            <h2 align=center>Shehwa</h2>            
         </div>
         <div class="col-sm-4">
-        	<img class="img-circle img-responsive" src="http://placehold.it/300x300">
-            <h2>Marketing Box #3</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+        	<img class="img-circle img-responsive" src="../xcmg.png">
+            <h2 align=center>XCMG</h2>            
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive text-center" src="../foton.png">
+            <h2 align=center>Foton</h2>            
+        </div>
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive" src="../tonly.png">
+            <h2 align=center>Tonly</h2>            
+        </div>
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive" src="../howo.png">
+            <h2 align=center>Howo</h2>            
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive text-center" src="../tiangong.png">
+            <h2 align=center>Tiangong</h2>            
+        </div>
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive" src="../shaanxi.png">
+            <h2 align=center>Shaanxi</h2>            
+        </div>
+        <div class="col-sm-4">
+          <img class="img-circle img-responsive" src="../changlin.png">
+            <h2 align=center>Changlin</h2>            
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-sm-12">
+        <h2 align=center>И многое другое!</h2>
+        <h2 align=center>Звоните бесплатно: 8 800 555-39-84.</h2>
         </div>
       </div>
 
@@ -105,18 +136,16 @@
 
       <footer>
         <div class="row">
-          <div class="col-lg-12">
-            <p>Copyright &copy; Company 2013 &middot; Facebook &middot; Twitter &middot; Google+</p>
+          <div class="col-lg-6">
+            <p>&copy; <a href="http://запчастькитай.рф">Запчастькитай.рф</a> | Запчасти из Китая | 8 800 555-39-84</p>
+          </div>
+          <div class="col-lg-6">
+            <p align=right>Разработка и продвижение сайта - <a href="http://stellunger.ru">Бюро интернет-маркетинга "Штеллунгер"</a></p>
           </div>
         </div>
       </footer>
 
-    </div> <!-- /container -->
-
-
-    <!-- Bootstrap core JavaScript -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- Don't forget to add jQuery - download the most recent version at http://jquery.com/ -->
+    </div> 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.js"></script>
   </body>
